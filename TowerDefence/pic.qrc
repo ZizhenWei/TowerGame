@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>buttom.png</file>
+        <file>pika.jpg</file>
+        <file>ditu.jpg</file>
+        <file>back.jpg</file>
+        <file>obj2.jpg</file>
+        <file>obj1.png</file>
+        <file>pkq1.png</file>
+        <file>towerbotton1.png</file>
+        <file>pika1.png</file>
+        <file>pika2.png</file>
+        <file>pika4.png</file>
+        <file>pika5.png</file>
+        <file>atk1.png</file>
+        <file>atk2.png</file>
+        <file>atk3.png</file>
+        <file>1.png</file>
+        <file>2.png</file>
+        <file>lose.png</file>
+        <file>win.png</file>
+    </qresource>
+</RCC>

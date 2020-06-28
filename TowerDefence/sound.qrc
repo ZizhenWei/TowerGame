@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/sound">
+        <file>bgm.mp3</file>
+        <file>settower.mp3</file>
+    </qresource>
+</RCC>
